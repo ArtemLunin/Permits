@@ -1,0 +1,6 @@
+<?php
+$res=exec('upload_data.bat');
+$out_res=array('answer'=>'1', 'res'=>$res);
+header('Content-type: application/json');
+echo json_encode($out_res);
+?>

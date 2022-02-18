@@ -1,0 +1,1002 @@
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'folderName' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 219204
+    [folderRsn] => 4024212
+    [folderType] => SR
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => Small Residential Projects
+    [inDate] => Sep 8, 2016
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 10
+    [folderSequence] => 187883
+    [folderName] => 60 EMBLEM CRT
+    [folderRsn] => 2626725
+    [folderType] => DS
+    [folderSection] => DST
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Jun 3, 2010
+    [folderTypeDesc] => Designated Structures
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 880
+    [folderYear] => 10
+    [folderSequence] => 183503
+    [folderName] => 6055 STEELES E, UNIT C25/C26
+    [folderRsn] => 2621991
+    [folderType] => DS
+    [folderSection] => DST
+    [folderRevision] => 00
+    [statusDesc] => Examiner's Notice Sent
+    [inDate] => May 27, 2010
+    [folderTypeDesc] => Designated Structures
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 12
+    [folderSequence] => 214720
+    [folderName] => 145 GREENBRAE CRCT-STS
+    [folderRsn] => 3178624
+    [folderType] => DR
+    [folderSection] => STS
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Jul 19, 2012
+    [folderTypeDesc] => Drain and Site Service
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 10
+    [folderSequence] => 236553
+    [folderName] => 9 PAINTED POST DR
+    [folderRsn] => 2684114
+    [folderType] => SR
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Aug 10, 2010
+    [folderTypeDesc] => Small Residential Projects
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 12
+    [folderSequence] => 201724
+    [folderName] => 34 TOYNBEE TRL
+    [folderRsn] => 3164025
+    [folderType] => SR
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Jun 27, 2012
+    [folderTypeDesc] => Small Residential Projects
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 10
+    [folderSequence] => 163837
+    [folderName] => 8150 SHEPPARD AVE E
+    [folderRsn] => 2600533
+    [folderType] => DS
+    [folderSection] => DST
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Apr 26, 2010
+    [folderTypeDesc] => Designated Structures
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 122404
+    [folderName] => 3052 BAYVIEW AVE - LOT 1
+    [folderRsn] => 3909570
+    [folderType] => NH
+    [folderSection] => B01
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Mar 11, 2016
+    [folderTypeDesc] => New Houses
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 122404
+    [folderName] => 3054 BAYVIEW AVE - LOT 2
+    [folderRsn] => 3909575
+    [folderType] => NH
+    [folderSection] => B02
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Mar 11, 2016
+    [folderTypeDesc] => New Houses
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 122404
+    [folderName] => 3056 BAYVIEW AVE - LOT 3
+    [folderRsn] => 3909576
+    [folderType] => NH
+    [folderSection] => B03
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Mar 11, 2016
+    [folderTypeDesc] => New Houses
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 122404
+    [folderName] => 3060 BAYVIEW AVE - LOT 5
+    [folderRsn] => 3909578
+    [folderType] => NH
+    [folderSection] => B05
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Mar 11, 2016
+    [folderTypeDesc] => New Houses
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 122404
+    [folderName] => 3062 BAYVIEW AVE - LOT 6
+    [folderRsn] => 3909579
+    [folderType] => NH
+    [folderSection] => B06
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Mar 11, 2016
+    [folderTypeDesc] => New Houses
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 7
+    [folderYear] => 14
+    [folderSequence] => 107118
+    [folderName] => 210 BURNETT AVE
+    [folderRsn] => 3492970
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Work Not Started
+    [inDate] => Jan 31, 2014
+    [folderTypeDesc] => Demolition Folder (DM)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 29
+    [folderYear] => 07
+    [folderSequence] => 281139
+    [folderName] => 247 ELLERSLIE AVE
+    [folderRsn] => 2552725
+    [folderType] => NH
+    [folderSection] => BLD
+    [folderRevision] => 01
+    [statusDesc] => Revision Issued
+    [inDate] => Feb 19, 2010
+    [folderTypeDesc] => New Houses
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 880
+    [folderYear] => 17
+    [folderSequence] => 149416
+    [folderName] => 36 HOUNSLOW AVE
+    [folderRsn] => 4145356
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Examiner's Notice Sent
+    [inDate] => May 9, 2017
+    [folderTypeDesc] => Demolition Folder (DM)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 510
+    [folderYear] => 15
+    [folderSequence] => 237265
+    [folderName] => 123 SHEPPARD AVE E
+    [folderRsn] => 3842091
+    [folderType] => VI
+    [folderSection] => COU
+    [folderRevision] => 00
+    [statusDesc] => Prosecution Initiated
+    [inDate] => 
+    [folderTypeDesc] => Violation
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 10
+    [folderSequence] => 106000
+    [folderName] => 6 SPRING GARDEN AVE
+    [folderRsn] => 2536130
+    [folderType] => MS
+    [folderSection] => MSA
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Jan 18, 2010
+    [folderTypeDesc] => Mechanical(MS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 19
+    [folderSequence] => 137666
+    [folderName] => 28 URBANDALE AVE
+    [folderRsn] => 4551546
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Apr 17, 2019
+    [folderTypeDesc] => Demolition Folder (DM)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 16
+    [folderSequence] => 157193
+    [folderName] => 370 WILLOWDALE AVE
+    [folderRsn] => 3952521
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Jun 9, 2016
+    [folderTypeDesc] => Demolition Folder (DM)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 16
+    [folderSequence] => 157198
+    [folderName] => 146 NORTON AVE
+    [folderRsn] => 3952526
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Jun 9, 2016
+    [folderTypeDesc] => Demolition Folder (DM)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 18
+    [folderSequence] => 161045
+    [folderName] => 5649-5651 YONGE ST
+    [folderRsn] => 4374648
+    [folderType] => MS
+    [folderSection] => HVA
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => May 22, 2018
+    [folderTypeDesc] => Mechanical(MS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 10
+    [folderSequence] => 156187
+    [folderName] => 5800 YONGE ST - TORONTO HYDRO ELECTRIC
+    [folderRsn] => 2593187
+    [folderType] => DS
+    [folderSection] => DST
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Apr 22, 2010
+    [folderTypeDesc] => Designated Structures
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 10
+    [folderSequence] => 190284
+    [folderName] => 210 QUEENSDALE AVE
+    [folderRsn] => 2629318
+    [folderType] => PS
+    [folderSection] => PSA
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Jun 7, 2010
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 09
+    [folderSequence] => 199632
+    [folderName] => 93 BIRCHMOUNT RD
+    [folderRsn] => 2575245
+    [folderType] => PS
+    [folderSection] => PLB
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Mar 26, 2010
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 230
+    [folderYear] => 19
+    [folderSequence] => 179597
+    [folderName] => 26 EASTWOOD AVE
+    [folderRsn] => 4600121
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Issuance Pending
+    [inDate] => Jul 8, 2019
+    [folderTypeDesc] => Demolition Folder (DM)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 17
+    [folderSequence] => 204420
+    [folderName] => 1428 KENNEDY RD
+    [folderRsn] => 4213146
+    [folderType] => PS
+    [folderSection] => PLB
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Oct 23, 2017
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 10
+    [folderSequence] => 173756
+    [folderName] => 1885 KENNEDY RD
+    [folderRsn] => 2611425
+    [folderType] => DS
+    [folderSection] => DST
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => May 13, 2010
+    [folderTypeDesc] => Designated Structures
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 10
+    [folderSequence] => 193286
+    [folderName] => 209 DANFORTH AVE
+    [folderRsn] => 2632581
+    [folderType] => DS
+    [folderSection] => DST
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Jun 10, 2010
+    [folderTypeDesc] => Designated Structures
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 19
+    [folderSequence] => 244913
+    [folderName] => 339 HIGHFIELD RD-DRN
+    [folderRsn] => 4676398
+    [folderType] => DR
+    [folderSection] => DRN
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Nov 4, 2019
+    [folderTypeDesc] => Drain and Site Service
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 880
+    [folderYear] => 15
+    [folderSequence] => 267484
+    [folderName] => 79 BLYTHWOOD RD
+    [folderRsn] => 3877274
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Examiner's Notice Sent
+    [inDate] => Jan 26, 2016
+    [folderTypeDesc] => Demolition Folder (DM)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 19
+    [folderSequence] => 120661
+    [folderName] => 48 SHARRON DR
+    [folderRsn] => 4530958
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Mar 1, 2019
+    [folderTypeDesc] => Demolition Folder (DM)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 80
+    [folderYear] => 10
+    [folderSequence] => 317674
+    [folderName] => 23 SUNNYDENE CRES
+    [folderRsn] => 2865542
+    [folderType] => CP
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Forwarded for Issuance
+    [folderTypeDesc] => Conditional Permit
+    [inDate] => 
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 10
+    [folderSequence] => 105955
+    [folderName] => 28 WILLIAM CARSON CRES
+    [folderRsn] => 2536075
+    [folderType] => PS
+    [folderSection] => PSA
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Jan 18, 2010
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 17
+    [folderSequence] => 138789
+    [folderName] => 90 CORNERBROOK DR
+    [folderRsn] => 4558328
+    [folderType] => MS
+    [folderSection] => HVA
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => Mechanical(MS)
+    [inDate] => May 8, 2019
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 520
+    [folderYear] => 13
+    [folderSequence] => 211871
+    [folderName] => 110 BRIAN DR
+    [folderRsn] => 3403073
+    [folderType] => VI
+    [folderSection] => WNP
+    [folderRevision] => 00
+    [statusDesc] => Order Issued
+    [inDate] => 
+    [folderTypeDesc] => Violation
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 10
+    [folderSequence] => 248482
+    [folderName] => 19 GREENBRIAR RD
+    [folderRsn] => 2701711
+    [folderType] => PS
+    [folderSection] => PSA
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Aug 27, 2010
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 09
+    [folderSequence] => 188717
+    [folderName] => 25 PARKWAY FOREST DR
+    [folderRsn] => 2511551
+    [folderType] => BA
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => Building Additions/Alterations
+    [inDate] => Nov 17, 2009
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 29
+    [folderYear] => 17
+    [folderSequence] => 119921
+    [folderName] => 120 ADELAIDE ST W UNIT R17
+    [folderRsn] => 4127147
+    [folderType] => BA
+    [folderSection] => BLD
+    [folderRevision] => 01
+    [statusDesc] => Revision Issued
+    [folderTypeDesc] => Building Additions/Alterations
+    [inDate] => Mar 27, 2017
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 12
+    [folderSequence] => 276834
+    [folderName] => 681 ADELAIDE ST W
+    [folderRsn] => 3248388
+    [folderType] => SR
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Nov 9, 2012
+    [folderTypeDesc] => Small Residential Projects
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 19
+    [folderSequence] => 123280
+    [folderName] => 21 CANNIFF ST
+    [folderRsn] => 4534276
+    [folderType] => PS
+    [folderSection] => PSA
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Mar 8, 2019
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 17
+    [folderSequence] => 239165
+    [folderName] => 22 FOXLEY ST-DRN
+    [folderRsn] => 4253310
+    [folderType] => DR
+    [folderSection] => DRN
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Sep 26, 2017
+    [folderTypeDesc] => Drain and Site Service
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 520
+    [folderYear] => 16
+    [folderSequence] => 192684
+    [folderName] => 148 MANNING AVE
+    [folderRsn] => 3993534
+    [folderType] => VI
+    [folderSection] => WNP
+    [folderRevision] => 00
+    [statusDesc] => Order Issued
+    [inDate] => 
+    [folderTypeDesc] => Violation
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 520
+    [folderYear] => 13
+    [folderSequence] => 191469
+    [folderName] => 64 OSSINGTON AVE
+    [folderRsn] => 3380121
+    [folderType] => VI
+    [folderSection] => WNP
+    [folderRevision] => 00
+    [statusDesc] => Order Issued
+    [folderTypeDesc] => Violation
+    [inDate] => 
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 520
+    [folderYear] => 14
+    [folderSequence] => 267788
+    [folderName] => 114 AVENUE RD
+    [folderRsn] => 3678457
+    [folderType] => VI
+    [folderSection] => ECO
+    [folderRevision] => 00
+    [statusDesc] => Order Issued
+    [folderTypeDesc] => Violation
+    [inDate] => 
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 15
+    [folderSequence] => 244630
+    [folderName] => 725 BATHURST ST
+    [folderRsn] => 3850781
+    [folderType] => FS
+    [folderSection] => FSU
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Oct 29, 2015
+    [folderTypeDesc] => Fire/Security Upgrade
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 15
+    [folderSequence] => 244630
+    [folderName] => 725 BATHURST ST
+    [folderRsn] => 3850781
+    [folderType] => FS
+    [folderSection] => FSU
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Oct 29, 2015
+    [folderTypeDesc] => Fire/Security Upgrade
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 18
+    [folderSequence] => 111337
+    [folderName] => 81 HARBORD ST
+    [folderRsn] => 4315864
+    [folderType] => PS
+    [folderSection] => PSA
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Jan 31, 2018
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'folderName' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 219204
+    [folderRsn] => 4024212
+    [folderType] => SR
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => Small Residential Projects
+    [inDate] => Sep 8, 2016
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 18
+    [folderSequence] => 195227
+    [folderName] => 1427 YONGE ST
+    [folderRsn] => 4413713
+    [folderType] => PS
+    [folderSection] => PSA
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => Plumbing(PS)
+    [inDate] => Jul 27, 2018
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 16
+    [folderSequence] => 114054
+    [folderName] => 20 TORONTO ST - GROUND FLOOR
+    [folderRsn] => 3899094
+    [folderType] => MS
+    [folderSection] => MSA
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [folderTypeDesc] => Mechanical(MS)
+    [inDate] => Feb 8, 2016
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 14
+    [folderSequence] => 171618
+    [folderName] => 232 DELHI AVE
+    [folderRsn] => 3567974
+    [folderType] => NH
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => New Houses
+    [inDate] => Jun 11, 2014
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 09
+    [folderSequence] => 200642
+    [folderName] => 401 MAGNETIC DR
+    [folderRsn] => 2529346
+    [folderType] => PS
+    [folderSection] => PSA
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Dec 30, 2009
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 09
+    [folderSequence] => 200643
+    [folderName] => 401 MAGNETIC DR
+    [folderRsn] => 2529347
+    [folderType] => MS
+    [folderSection] => MSA
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Dec 30, 2009
+    [folderTypeDesc] => Mechanical(MS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 09
+    [folderSequence] => 188655
+    [folderName] => 121 SEARLE AVE
+    [folderRsn] => 2511483
+    [folderType] => SR
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Nov 17, 2009
+    [folderTypeDesc] => Small Residential Projects
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 7
+    [folderYear] => 14
+    [folderSequence] => 189907
+    [folderName] => 8 SUNRAY CRES
+    [folderRsn] => 3588875
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Work Not Started
+    [folderTypeDesc] => Demolition Folder (DM)
+    [inDate] => Jul 14, 2014
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 19
+    [folderSequence] => 248313
+    [folderName] => 347 HULLMAR DR-DRN
+    [folderRsn] => 4680432
+    [folderType] => DR
+    [folderSection] => DRN
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [folderTypeDesc] => Drain and Site Service
+    [inDate] => Nov 13, 2019
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 18
+    [folderSequence] => 105215
+    [folderName] => 88 ROWNTREE MILL RD
+    [folderRsn] => 4308507
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [folderTypeDesc] => Demolition Folder (DM)
+    [inDate] => Jan 16, 2018
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 15
+    [folderSequence] => 254596
+    [folderName] => 176 CARIBOU RD
+    [folderRsn] => 3862303
+    [folderType] => DM
+    [folderSection] => DEM
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [folderTypeDesc] => Demolition Folder (DM)
+    [inDate] => Nov 25, 2015
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 09
+    [folderSequence] => 198086
+    [folderName] => 3401 DUFFERIN ST
+    [folderRsn] => 2526341
+    [folderType] => BA
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Dec 18, 2009
+    [folderTypeDesc] => Building Additions/Alterations
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 10
+    [folderSequence] => 154957
+    [folderName] => 472 EGLINTON AVE W
+    [folderRsn] => 2591137
+    [folderType] => PS
+    [folderSection] => PSA
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Apr 19, 2010
+    [folderTypeDesc] => Plumbing(PS)
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 10
+    [folderSequence] => 187033
+    [folderName] => 225 GLEN PARK AVE
+    [folderRsn] => 2626489
+    [folderType] => NH
+    [folderSection] => B03
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => New Houses
+    [inDate] => Jun 8, 2010
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 215392
+    [folderName] => 59 MONTCALM AVE-DRN
+    [folderRsn] => 4019831
+    [folderType] => DR
+    [folderSection] => DRN
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => Drain and Site Service
+    [inDate] => Aug 30, 2016
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'folderName' cannot be null
+stdClass Object
+(
+    [statusCode] => 520
+    [folderYear] => 19
+    [folderSequence] => 229903
+    [folderRsn] => 4658717
+    [folderType] => VI
+    [folderSection] => WNP
+    [folderRevision] => 00
+    [statusDesc] => Order Issued
+    [folderTypeDesc] => Violation
+    [inDate] => 
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 20
+    [folderYear] => 19
+    [folderSequence] => 234888
+    [folderName] => 1987 DAVENPORT RD-DRN
+    [folderRsn] => 4664605
+    [folderType] => DR
+    [folderSection] => DRN
+    [folderRevision] => 00
+    [statusDesc] => Permit Issued
+    [inDate] => Oct 10, 2019
+    [folderTypeDesc] => Drain and Site Service
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 510
+    [folderYear] => 18
+    [folderSequence] => 153224
+    [folderName] => 17 PATON RD
+    [folderRsn] => 4365557
+    [folderType] => VI
+    [folderSection] => COU
+    [folderRevision] => 00
+    [statusDesc] => Prosecution Initiated
+    [folderTypeDesc] => Violation
+    [inDate] => 
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 15
+    [folderSequence] => 241664
+    [folderName] => 1185 MARTIN GROVE RD-STS
+    [folderRsn] => 3847232
+    [folderType] => DR
+    [folderSection] => STS
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [folderTypeDesc] => Drain and Site Service
+    [inDate] => Oct 23, 2015
+)
+sql_error:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'app_descr' cannot be null
+stdClass Object
+(
+    [statusCode] => 190
+    [folderYear] => 16
+    [folderSequence] => 254092
+    [folderName] => 8 WESTHAMPTON DR-DRN
+    [folderRsn] => 4065105
+    [folderType] => DR
+    [folderSection] => DRN
+    [folderRevision] => 00
+    [statusDesc] => Inspection
+    [inDate] => Nov 21, 2016
+    [folderTypeDesc] => Drain and Site Service
+)

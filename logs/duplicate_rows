@@ -1,0 +1,96 @@
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5040955' for key 'folderRsn_idx'
+stdClass Object
+(
+    [statusCode] => 20
+    [folderName] => 4205 KEELE ST - UNIT 19
+    [folderTypeDesc] => Building Additions/Alterations
+    [inDate] => Jan 17, 2022
+    [folderYear] => 21
+    [folderSequence] => 251525
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [folderType] => BA
+    [folderRsn] => 5040955
+    [statusDesc] => Permit Issued
+)
+
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5040956' for key 'folderRsn_idx'
+stdClass Object
+(
+    [statusCode] => 20
+    [folderName] => 4205 KEELE ST - UNIT 19
+    [folderTypeDesc] => Mechanical(MS)
+    [inDate] => Jan 17, 2022
+    [folderYear] => 21
+    [folderSequence] => 251525
+    [folderSection] => HVA
+    [folderRevision] => 00
+    [folderType] => MS
+    [folderRsn] => 5040956
+    [statusDesc] => Permit Issued
+)
+
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5040957' for key 'folderRsn_idx'
+stdClass Object
+(
+    [statusCode] => 20
+    [folderName] => 4205 KEELE ST - UNIT 19
+    [folderTypeDesc] => Plumbing(PS)
+    [inDate] => Jan 17, 2022
+    [folderYear] => 21
+    [folderSequence] => 251525
+    [folderSection] => PLB
+    [folderRevision] => 00
+    [folderType] => PS
+    [folderRsn] => 5040957
+    [statusDesc] => Permit Issued
+)
+
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5040515' for key 'folderRsn_idx'
+stdClass Object
+(
+    [statusCode] => 7
+    [folderName] => 4205 KEELE ST
+    [folderTypeDesc] => Sign Permit
+    [inDate] => Dec 30, 2021
+    [folderYear] => 21
+    [folderSequence] => 251188
+    [folderSection] => SGN
+    [folderRevision] => 00
+    [folderType] => SP
+    [folderRsn] => 5040515
+    [statusDesc] => Work Not Started
+)
+
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5041856' for key 'folderRsn_idx'
+stdClass Object
+(
+    [statusCode] => 20
+    [folderName] => 4205 KEELE ST
+    [folderTypeDesc] => Designated Structures
+    [inDate] => Dec 30, 2021
+    [folderYear] => 21
+    [folderSequence] => 251188
+    [folderSection] => DST
+    [folderRevision] => 00
+    [folderType] => DS
+    [folderRsn] => 5041856
+    [statusDesc] => Permit Issued
+)
+
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5042928' for key 'folderRsn_idx'
+stdClass Object
+(
+    [statusCode] => 20
+    [folderName] => 648 PETROLIA RD
+    [folderTypeDesc] => Building Additions/Alterations
+    [inDate] => Jan 11, 2022
+    [folderYear] => 22
+    [folderSequence] => 100380
+    [folderSection] => BLD
+    [folderRevision] => 00
+    [folderType] => BA
+    [folderRsn] => 5042928
+    [statusDesc] => Permit Issued
+)
+
