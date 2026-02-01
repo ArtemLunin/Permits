@@ -24,6 +24,9 @@ if (isset ($_REQUEST['sign_in']))
 	}
 }
 $unauthorized=FALSE; // for local use
+session_start();
+$_SESSION['User-Agent'] = trim($_SERVER['HTTP_USER_AGENT'] ?? 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36');
+session_write_close();
 /*
 
 			session_start();

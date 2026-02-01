@@ -17,17 +17,29 @@
 <body>
 <div  class="container-fluid">
 	<div class="row">
-	<div class="col-sm-7">
+	<div class="col-sm-5">
 		<div id="upload_status"></div>
 		<div>
 			<select id="wards_select">Select ward</select>
 		</div>
 	</div>
-	<div class="col-sm-1">
-		<div><button type="button" class="btn btn-primary" id="start_upload" style="visibility: hidden;" title="Start upload data">Run</button></div>
+	<div class="col-sm-5">
+		<div>
+      <label for="start">From:</label>
+      <input
+        type="date"
+        id="startDate"
+        name="start-diap-upl" />
+      <label for="start">To:</label>
+      <input
+        type="date"
+        id="endDate"
+        name="end-diap-upl" />
+      <button type="button" class="btn btn-primary" id="start_upload" style="visibility: hidden;" title="Start upload data">Run</button>
+    </div>
 		<div><button type="button" class="btn btn-warning" id="stop_upload" style="visibility: hidden;" title="Stop upload data">Stop</button></div>
 	</div>
-    <div class="col-sm-4">
+    <div class="col-sm-2">
 	<a href="#" id="showWards" class="card-link" title="show wards info">Building Permit Status&nbsp;</a>
 	</div>
 	</div>

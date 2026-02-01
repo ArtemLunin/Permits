@@ -23,6 +23,18 @@ function ready() {
 	// for local use - disable check user rights
 	//if (getCookie('isLogined')==1)
 	//{
+
+		const btnStart = document.querySelector('#start_upload'),
+			dateStart = document.querySelector('#startDate'),
+			dateEnd = document.querySelector('#endDate');
+
+		const today = new Date();
+		const d = new Date(today);
+		d.setMonth(d.getMonth() - 2);
+		d.setDate(1);
+  		dateStart.value = d.toISOString().split('T')[0];
+		dateEnd.value = today.toISOString().split('T')[0];;
+		
 		showAppTable('W01');
 		setTimeout(function () {showWardsList()},3000);
 		setTimeout(function () {getPos()},5000);
@@ -36,8 +48,8 @@ function ready() {
 		document.getElementById('upload_status').innerHTML='<span class=\"bg-secondary\">'+'Please wait...'+'</span>';
 		document.getElementById('start_upload').style.visibility="hidden";
 		document.getElementById('stop_upload').style.visibility="hidden";
-		uploadData();
-		setTimeout(function () {getPos()},40000);
+		uploadData(dateStart.value, dateEnd.value);
+		setTimeout(function () {getPos()}, 40000);
 	});
 	document.getElementById('stop_upload').onclick = (function ()
 	{
@@ -72,6 +84,23 @@ function ready() {
 	{
 		changeWard(this.value);
 	});
+
+	dateStart.addEventListener('change', () => {
+		const dateStartObj = new Date(dateStart.value);
+		const dateEndObj = new Date(dateEnd.value);
+		if (dateStartObj > dateEndObj) {
+			dateEnd.value = dateStart.value;
+		}
+	});
+
+	dateEnd.addEventListener('change', () => {
+		const dateStartObj = new Date(dateStart.value);
+		const dateEndObj = new Date(dateEnd.value);
+		if (dateStartObj > dateEndObj) {
+			dateStart.value = dateEnd.value;
+		}
+	});
+
 	document.getElementById('btn_signIn').onclick = (function ()
 	{
 		var requestURL='utils.php';
@@ -310,27 +339,30 @@ function hideApplication(id) {
 }
 function getDescrWithLineBreak(str, max_str_length=90)
 {
-	let space_pos=0;
-	let arg_max_length=max_str_length;
-	if (str.length<=max_str_length)
-	{
-		descriptionFormatted=descriptionFormatted+str;
-		return 1;
-	}
-	else
-	{
-		space_pos=str.lastIndexOf(' ', max_str_length);
-		if (space_pos==-1)
-		{
-			descriptionFormatted=descriptionFormatted+str.substring(0, max_str_length)+'<br>';
-			space_pos=max_str_length;
-		}
-		else
-		{
-			descriptionFormatted=descriptionFormatted+str.substring(0, space_pos)+'<br>';
-		}
-		getDescrWithLineBreak(str.substring(space_pos), arg_max_length);
-	}
+	// let space_pos=0;
+	// let arg_max_length=max_str_length;
+	// if (str.length<=max_str_length)
+	// {
+	// 	descriptionFormatted=descriptionFormatted+str;
+	// 	return 1;
+	// }
+	// else
+	// {
+	// 	space_pos=str.lastIndexOf(' ', max_str_length);
+	// 	if (space_pos==-1)
+	// 	{
+	// 		descriptionFormatted=descriptionFormatted+str.substring(0, max_str_length)+'<br>';
+	// 		space_pos=max_str_length;
+	// 	}
+	// 	else
+	// 	{
+	// 		descriptionFormatted=descriptionFormatted+str.substring(0, space_pos)+'<br>';
+	// 	}
+	// 	getDescrWithLineBreak(str.substring(space_pos), arg_max_length);
+	// }
+	let regex = new RegExp(`(.{1,${max_str_length}})(\\s|$)`,'g');
+	let arr_str = str.match(regex).map(chunk => chunk.trim());
+	descriptionFormatted = arr_str.join('<br>');
 }
 function getPos()
 {
@@ -389,11 +421,13 @@ function getUploadDur(time_work)
 	}
 	return result_dur;
 }
-function uploadData()
+function uploadData(dateStart, dateEnd)
 {
 	let requestURL='upload_data_start.php';
 	let data = new FormData();
-	data.append( 'startUpload', 1 );
+	data.append('startUpload', 1);
+	data.append('dateStart', dateStart);
+	data.append('dateEnd', dateEnd);
 	rUploadData = new XMLHttpRequest();
 	rUploadData.open("POST",requestURL,true);
 	rUploadData.send(data); 
